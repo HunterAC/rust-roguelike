@@ -1,0 +1,8 @@
+[package]
+name = "rustyrogue"
+version = "0.1.0"
+authors = ["Hunter Allen jhallen3@crimson.ua.edu"]
+
+[dependencies]
+tcod = "0.12"
+rand = "0.4"
